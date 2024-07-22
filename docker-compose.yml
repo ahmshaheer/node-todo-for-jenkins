@@ -3,4 +3,5 @@ services :
   web :
      image : ahmshaheer1/jenk:latest
      ports :
-         - "8000:8000"
+         - "3000:3000"
+
